@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Battlefield xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Castles>
+    <Castle Type="England" CastleEnable="false" CanLadderEnable="false" Color="1,1,0">
+      <UnitsType>
+        <UnitType Type="Melle" MaxCountTogether="2">
+          <Units>
+            <Unit Type="Knight" Count="3" />
+            <Unit Type="Bandit" Count="4" />
+          </Units>
+        </UnitType>
+        <UnitType Type="Range" MaxCountTogether="1">
+          <Units>
+            <Unit Type="Archer" Count="3" />
+          </Units>
+        </UnitType>
+        <UnitType Type="UpperRange" MaxCountTogether="2">
+          <Units>
+            <Unit Type="Archer" Count="2" />
+          </Units>
+        </UnitType>
+        <UnitType Type="Helper" MaxCountTogether="1">
+          <Units />
+        </UnitType>
+      </UnitsType>
+    </Castle>
+  </Castles>
+</Battlefield>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Units xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UnitSet>
+    <Unit Type="Knight" Life="100" Damage="15" AttackSpeed="1" Evasion="50" RandomDamage="5" Accuracy="10" />
+    <Unit Type="Bandit" Life="65" Damage="15" AttackSpeed="1" Evasion="50" RandomDamage="5" Accuracy="10" />
+    <Unit Type="Archer" Life="80" Damage="15" AttackSpeed="1" Evasion="50" RandomDamage="5" Accuracy="10" />
+    <Unit Type="Redneck" Life="80" Damage="15" AttackSpeed="1" Evasion="50" RandomDamage="5" Accuracy="10" />
+    <Unit Type="Helper" Life="80" Damage="15" AttackSpeed="1" Evasion="50" RandomDamage="5" Accuracy="10" />
+  </UnitSet>
+</Units>

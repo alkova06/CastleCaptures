@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Map\Oboz.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Map\Bandit.cs" Line="1" Column="1" />
+      <File FileName="C:\Users\Kova\Documents\2D Sample\Assets\Scripts\LayBombs.cs" Line="45" Column="1" />
+      <File FileName="Assets\Scripts\Map\Oboz.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
